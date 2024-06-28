@@ -18,9 +18,6 @@ I'm looking to collaborate on exiciting backend projects<br>I'm looking for help
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratham-poudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=pratham-poudel&icon=0&color=0)](https://visitcount.itsvg.in)
 
